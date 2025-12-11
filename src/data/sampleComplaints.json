@@ -1,0 +1,74 @@
+[
+  {
+    "id": "EDU-2024-0001",
+    "category": "Academics",
+    "title": "Lab equipment not working",
+    "description": "The oscilloscopes in Electronics Lab 2 have been malfunctioning for the past week. Unable to complete experiments.",
+    "author": "Arjun Nair",
+    "authorId": "220107",
+    "status": "IN_PROGRESS",
+    "priority": "HIGH",
+    "createdAt": "2024-01-20T09:30:00Z",
+    "updatedAt": "2024-01-22T14:00:00Z",
+    "responses": [
+      {"by": "Lab Admin", "message": "Technician has been assigned. Expected fix by Friday.", "at": "2024-01-22T14:00:00Z"}
+    ]
+  },
+  {
+    "id": "EDU-2024-0002",
+    "category": "Hostel",
+    "title": "Water supply issue in Block C",
+    "description": "No water supply in Block C, 3rd floor since yesterday evening. Multiple rooms affected.",
+    "author": "Vikram Singh",
+    "authorId": "220105",
+    "status": "RESOLVED",
+    "priority": "HIGH",
+    "createdAt": "2024-01-18T07:00:00Z",
+    "updatedAt": "2024-01-19T10:00:00Z",
+    "responses": [
+      {"by": "Hostel Warden", "message": "Plumber dispatched immediately.", "at": "2024-01-18T08:30:00Z"},
+      {"by": "Maintenance", "message": "Issue resolved. Pipeline repaired.", "at": "2024-01-19T10:00:00Z"}
+    ]
+  },
+  {
+    "id": "EDU-2024-0003",
+    "category": "Mess",
+    "title": "Food quality concerns",
+    "description": "The dinner quality has significantly dropped. Rice is often undercooked and vegetables are not fresh.",
+    "author": "Divya Sharma",
+    "authorId": "220116",
+    "status": "OPEN",
+    "priority": "MEDIUM",
+    "createdAt": "2024-01-25T20:00:00Z",
+    "updatedAt": "2024-01-25T20:00:00Z",
+    "responses": []
+  },
+  {
+    "id": "EDU-2024-0004",
+    "category": "Exam",
+    "title": "Wrong marks in DBMS end-sem",
+    "description": "My answer sheet shows incorrect marking in Q3 and Q5. Requesting reevaluation.",
+    "author": "Priya Patel",
+    "authorId": "220102",
+    "status": "IN_PROGRESS",
+    "priority": "MEDIUM",
+    "createdAt": "2024-01-22T11:00:00Z",
+    "updatedAt": "2024-01-24T15:30:00Z",
+    "responses": [
+      {"by": "Exam Cell", "message": "Reevaluation request received. Will be processed within 7 days.", "at": "2024-01-24T15:30:00Z"}
+    ]
+  },
+  {
+    "id": "EDU-2024-0005",
+    "category": "Other",
+    "title": "Library AC not working",
+    "description": "The air conditioning in the reading room has been broken for 3 days. Extremely uncomfortable for long study sessions.",
+    "author": "Meera Krishnan",
+    "authorId": "220112",
+    "status": "OPEN",
+    "priority": "LOW",
+    "createdAt": "2024-01-26T16:00:00Z",
+    "updatedAt": "2024-01-26T16:00:00Z",
+    "responses": []
+  }
+]
